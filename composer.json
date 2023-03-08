@@ -1,0 +1,15 @@
+{
+    "name": "davy/test-composer",
+    "description": "Wild composer quest",
+    "autoload": {
+        "psr-4": {
+            "Davy\\TestComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Davy ROBERT"
+        }
+    ],
+    "require": {}
+}
